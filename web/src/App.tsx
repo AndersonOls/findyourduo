@@ -1,15 +1,10 @@
-function Button(){
-  return(
-    <button>
-      Enviar
-    </button>
-  )
-
-}
+import './styles.css'
 
 
 function App() {
-  return <Button />
+  return 
+  <div>
+  </div>
 }
 
 export default App
